@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 3-safe_print_division.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
 
 
 def safe_print_division(a, b):
